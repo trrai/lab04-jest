@@ -1,5 +1,5 @@
 'use strict';
 
-$('button').click(function() {
+$('#panic-button').click(function() {
   $('.alert').removeClass('d-none');
 });
